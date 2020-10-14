@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
+  .staticnav{
+    width: 600px;
+    height: 40px;
+    position: fixed;
+    top: 0;
+    left: 25%;
+    background-color: rgb(2,231,200);
+    text-emphasis-color: black;
+}
