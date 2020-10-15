@@ -1,4 +1,4 @@
-const tileSize = 200;
+const tileSize = 50;
 const noiseScale = 0.3;
 const speed = 100;
 const buffer = 10;
@@ -19,7 +19,7 @@ function preload() {
     images.push(loadImage('img/freq.jpg'));
     images.push(loadImage('img/world.jpg'));
     images.push(loadImage('img/mars.jpg'));
-//     images.push(loadImage('img/dobbs.jpg'));
+    images.push(loadImage('img/freq.jpg'));
 
 }
 
