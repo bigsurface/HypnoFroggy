@@ -19,7 +19,7 @@ function preload() {
     images.push(loadImage('img/freq.jpg'));
     images.push(loadImage('img/world.jpg'));
     images.push(loadImage('img/mars.jpg'));
-    images.push(loadImage('img/dobbs.jpg'));
+//     images.push(loadImage('img/dobbs.jpg'));
 
 }
 
