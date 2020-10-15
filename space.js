@@ -1,7 +1,7 @@
 const tileSize = 200;
 const noiseScale = 0.3;
 const speed = 100;
-const buffer = 20;
+const buffer = 10;
 const images = [];
 
 var x = 0;
